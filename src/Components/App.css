@@ -1,2 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Ubuntu:wght@700&display=swap');
+    /*font-family: 'Ubuntu', sans-serif;*/
 
+body{
+    height: 100%;
+    font-family: 'Lato', sans-serif;
+    line-height: 1;
+    color: rgba(30, 33, 44, 1);
+    /*background: rgba(23, 105, 106, 1);*/
+}
+.wrapper{
+    min-height: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.page{
 
+    flex: 1 1 auto;
+}
+/*selector*/
+[class*="__container"]{
+    max-width: 1230px;
+    margin:0 auto;
+
+}
+@media (max-width: 1200px){
+    [class*="__container"]{
+        max-width: 970px;
+    }
+}
+@media (max-width: 991px){
+
+    [class*="__container"]{
+        max-width: 750px;
+    }
+}
+@media (max-width: 768px){
+    [class*="__container"]{
+        max-width: none;
+        padding: 0 15px;
+    }
+}
