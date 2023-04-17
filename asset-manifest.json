@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/createx-shop/static/css/main.073c9b0a.css",
-    "main.js": "/createx-shop/static/js/main.cdd5662b.js",
-    "static/js/787.bbcd2656.chunk.js": "/createx-shop/static/js/787.bbcd2656.chunk.js",
-    "static/media/logo.svg": "/createx-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/createx-shop/static/css/main.31d6cfe0.css",
+    "main.js": "/createx-shop/static/js/main.9c449aea.js",
     "index.html": "/createx-shop/index.html",
-    "main.073c9b0a.css.map": "/createx-shop/static/css/main.073c9b0a.css.map",
-    "main.cdd5662b.js.map": "/createx-shop/static/js/main.cdd5662b.js.map",
-    "787.bbcd2656.chunk.js.map": "/createx-shop/static/js/787.bbcd2656.chunk.js.map"
+    "main.9c449aea.js.map": "/createx-shop/static/js/main.9c449aea.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cdd5662b.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9c449aea.js"
   ]
 }
