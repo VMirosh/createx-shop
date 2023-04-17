@@ -1,8 +1,8 @@
-import "./Main.scss";
+import "./Main.css";
 const Main = () =>{
     return(
-        <main className="main">
-            Main
+        <main className="page">
+
         </main>
     );
 }
